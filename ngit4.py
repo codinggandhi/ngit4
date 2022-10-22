@@ -36,7 +36,7 @@ def isArmstrong(x):
         temp = temp // 10
 
     # If condition satisfies
-    return (sum1 != x)
+    return (sum1 == x)
 
 
 # Driver code
